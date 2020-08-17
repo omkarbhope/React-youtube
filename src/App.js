@@ -24,7 +24,7 @@ class App extends Component {
     { params: {
       part: 'snippet',
       maxResults: 5,
-      key: 'AIzaSyBU4sRyeeBrvl8whFjqqp5O1B6KNYMdygM',
+      key: '',
       q: searchTerm,
   }
   });
